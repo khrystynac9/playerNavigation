@@ -1,0 +1,20 @@
+div#player {
+    width: 10px;
+    height: 10px;
+    background: rgb(245, 37, 37);
+    
+    transition: all 0.3s ease-out 0s;
+    
+    /* position: absolute; */
+    top: 0px;
+    left: 0px;
+    position: relative;
+  }
+
+  .myimage {
+    position: absolute;
+    top: -10px;
+    left: -10px;
+    width: 30px;
+    height: 30px;
+  }
